@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //fixbug
         //1.3.2功能开发
         //1.4开始版本开发
-        
+        //开发1.3版本 1.3.1功能
+        //1.3版本bug修复
     }
 }
