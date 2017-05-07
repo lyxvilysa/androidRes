@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //加入一行注释
         //the second explan
+        //the three
+        //the four
     }
 }
